@@ -1,3 +1,3 @@
 # Bikki Mahato portfolio
  My portfolio!
-https://bikkimahato.github.io/
+bikkimahato.github.io/portfolio/
