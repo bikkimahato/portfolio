@@ -190,14 +190,14 @@ function Navbar() {
                             </NavLink>
                         </Fade>
 
-                        <Fade left>
+                        {/* <Fade left>
                             <NavLink to="/#services" smooth={true} spy="true" duration={2000}>
                                 <div className={classes.drawerItem}>
                                     <BsFillGearFill className={classes.drawerIcon}/>
                                     <span className={classes.drawerLinks}>Services</span>
                                 </div>
                             </NavLink>
-                        </Fade>
+                        </Fade> */}
 
                         <Fade left>
                             <NavLink to="/#blog" smooth={true} spy="true" duration={2000}>
