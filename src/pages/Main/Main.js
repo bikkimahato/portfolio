@@ -8,7 +8,7 @@ import {
   About,
   Skills,
   Testimonials,
-  // Blog,
+  Blog,
   Education,
   Experience,
   Contacts,
@@ -33,7 +33,7 @@ function Main() {
       {/* <Projects /> */}
       {/* <Services /> */}
       <Testimonials />
-      {/* <Blog /> */}
+      <Blog />
       <Contacts />
       <Footer />
     </div>

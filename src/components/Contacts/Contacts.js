@@ -176,7 +176,7 @@ function Contacts() {
                   Name
                 </label>
                 <input
-                  placeholder="Bikki Mahato"
+                  placeholder="Your Name"
                   value={name}
                   onChange={(e) => setName(e.target.value)}
                   type="text"
@@ -189,7 +189,7 @@ function Contacts() {
                   Email
                 </label>
                 <input
-                  placeholder="bikkimahato123@gmail.com"
+                  placeholder="youremail@mail.com"
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
                   type="email"
@@ -275,7 +275,9 @@ function Contacts() {
               <div className={classes.detailsIcon}>
                 <FiAtSign />
               </div>
-              <p style={{ color: theme.tertiary }}>{contactsData.email}</p>
+              <p style={{ color: theme.tertiary, fontSize: "17px" }}>
+                {contactsData.email}
+              </p>
             </a>
             <a href={`tel:${contactsData.phone}`} className="personal-details">
               <div className={classes.detailsIcon}>

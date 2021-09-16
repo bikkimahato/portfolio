@@ -1,5 +1,5 @@
 import resume from "../assets/pdf/Bikki_Mahato_Resume.pdf";
-import bikki from "../assets/bikki.png";
+import bikki from "../assets/bikki.jpg";
 export const headerData = {
   name: "Bikki Mahato",
   title: "Full Stack Developer",
