@@ -5,6 +5,8 @@ export const experienceData = [
     jobtitle: "Software Engineer",
     startYear: "2021",
     endYear: "Present",
+    startMonth: "May",
+    endMonth: "",
   },
   {
     id: 2,
@@ -12,6 +14,8 @@ export const experienceData = [
     jobtitle: "Software Development Engineer",
     startYear: "2020",
     endYear: "2021",
+    startMonth: "July",
+    endMonth: "April",
   },
   {
     id: 3,
@@ -19,5 +23,7 @@ export const experienceData = [
     jobtitle: "Associate Software Engineer",
     startYear: "2019",
     endYear: "2020",
+    startMonth: "August",
+    endMonth: "July",
   },
 ];
