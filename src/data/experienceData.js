@@ -1,15 +1,24 @@
 export const experienceData = [
   {
     id: 1,
-    company: "Wissen Technology (Morgan Stanley)",
-    jobtitle: "Software Engineer",
-    startYear: "2021",
+    company: "Visa",
+    jobtitle: "Sr. SW Engineer",
+    startYear: "2024",
     endYear: "Present",
-    startMonth: "May",
+    startMonth: "August",
     endMonth: "",
   },
   {
     id: 2,
+    company: "Wissen Technology (Morgan Stanley)",
+    jobtitle: "Software Engineer",
+    startYear: "2021",
+    endYear: "2023",
+    startMonth: "May",
+    endMonth: "July",
+  },
+  {
+    id: 3,
     company: "Numen Health",
     jobtitle: "Software Development Engineer",
     startYear: "2020",
@@ -18,7 +27,7 @@ export const experienceData = [
     endMonth: "April",
   },
   {
-    id: 3,
+    id: 4,
     company: "GoodWorkLabs",
     jobtitle: "Associate Software Engineer",
     startYear: "2019",
