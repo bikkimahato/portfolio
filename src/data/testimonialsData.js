@@ -21,13 +21,13 @@ export const testimonialsData = [
     text: `Bikki Mahato is one of the best among all people I have ever met and is a loyal colleague, understands complex matters. Bikki Mahato is a strong and goal oriented team player; with every problem there was a solution. Highly recommended.`,
     image: boy1,
   },
-  // {
-  //     id: 3,
-  //     name: 'Phoebe Buffay',
-  //     title: 'Massuese',
-  //     text: "Heard of the song 'Smelly Cat!!' ? This website made it viral. Plus portfolio is the only thing that Ursula doesn't have :)",
-  //     image: girl1
-  // },
+  {
+      id: 3,
+      name: 'Ankan Dutta',
+      title: 'Lead Machine Learning Engineer',
+      text: "Having had the privilege to hire and collaborate with Bikki as a software engineer, I've witnessed his outstanding capabilities firsthand. Bikki impressed us during an off-campus interview and quickly became an integral part of our team. Notably, his adeptness in both UI development and backend programming stood out prominently. Bikki demonstrated a rare blend of skills, seamlessly transitioning between frontend and backend tasks, showcasing proficiency in building user-friendly interfaces and robust backend systems. His enthusiasm, quick learning curve, and dedication to mastering diverse aspects of software development were truly commendable. I wholeheartedly recommend Bikki for his exceptional talent in both UI and backend development, along with his passion for continuous growth and contribution.",
+      image: boy3
+  },
   // {
   //     id: 4,
   //     name: 'Joey Tribbiani',
